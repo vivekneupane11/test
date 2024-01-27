@@ -3,7 +3,7 @@ import "./App.css";
 
 function App() {
   return (
-    <div id="test" className="App">
+    <div id="tester" className="App">
       <UIRender
         htmlContent={`
 <main>
